@@ -1,0 +1,23 @@
+<suite name = "testing reports generating">
+    <listeners>
+        
+        <listener class-name = "ExtentReporting.ReportingClass">
+            
+            
+        </listener>
+    </listeners>
+    
+    
+    
+ <test name = "example test">
+     <classes>
+     <class name= "TestsPackage.LoginPageTest">
+         
+         
+     </class>
+     </classes>
+     
+ </test>
+    
+    
+</suite>
