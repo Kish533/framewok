@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name = "frame">
+<test name = "fametest">
+    <classes>
+    <class name = "TestsPackage.LoginPageTest"></class>
+    <class name ="TestsPackage.HomePageTest"></class>
+    <class name = "TestsPackage.ContactPageTest"></class>
+    <class name = "TestsPackage.NewContactPageTest"></class>
+</classes>
+
+</test>    
+    
+    
+    
+    
+</suite>

@@ -24,7 +24,7 @@ public class ParentClass {
 			
 		
 		pro = new Properties();
-		FileInputStream fi = new FileInputStream("L:\\FrameWork\\Repository\\selenium.properties");
+		FileInputStream fi = new FileInputStream("C:\\Users\\kishore\\git\\framewok\\FrameWork\\Repository\\selenium.properties");
 		pro.load(fi);
 		}catch(FileNotFoundException e) {
 			e.printStackTrace();
